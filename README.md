@@ -1,5 +1,7 @@
-# CP-DSR
+# CP-DSR project page
 
-Project page and listening samples for *Beyond Hard Transcripts: A Continuous Interface to Pre-trained TTS for Dysarthric Speech Reconstruction*.
+Static website and listening samples for **Beyond Hard Transcripts: A Continuous Interface to Pre-trained TTS for Dysarthric Speech Reconstruction**.
 
-This is a static website. For GitHub Pages, select **Deploy from a branch**, branch **main**, folder **/(root)** in Settings > Pages.
+Live website: https://mors20.github.io/CP-DSR/
+
+GitHub Pages publishes the root of the `page` branch. The `main` branch is reserved for research code.
